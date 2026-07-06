@@ -1,0 +1,16 @@
+# Visual Studio
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Caché
+.vs/
